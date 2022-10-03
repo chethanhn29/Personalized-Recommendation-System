@@ -1,4 +1,4 @@
-# Recommendation_System
+# Personalized Recommendation_System
 A comparative study of Recommendation Systems
 
 Three different Recommendation Systems are built and evaluated
